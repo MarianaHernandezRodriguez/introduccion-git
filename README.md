@@ -14,9 +14,8 @@ Este es mi primer repositorio para aprender a trabajar con github y git.
 
 2°copiar la primera linea (git remote add origin...), pegarla y darle enter. para sabe hacia donde se subio se usa *git remote -v* 
 
-3° copoiar la segunda linea git push -u origin main
- (git branch -M main), pegarla y dar enter para saber a que rama se subio se usa *git branch*.
+3° copiar la segunda linea (git branch -M main...), pegarla y dar enter para saber a que rama se subio se usa *git branch*.
 
 4° copiar la tercera linea (git push...) pegarla y enter para que se suban a mi repositorio
-pd: se puede tranbajar en variar ramas pero yo trabajare en la rama °main°.
-    
+
+pd: se puede tranbajar en variar ramas pero yo trabajare en la rama °main° las instrucciones de la 1° a la 4° solo se usan cada vez que se inicia un repositorio por primera vez y si se hace un cambio en local y quiero subirlo a remoto se usan los siguientes comandos en orden: a) *git status*, b) *git add .*, c)*git commit -m "agregar resumen"* y para finalizar d)*git push origin main*.
